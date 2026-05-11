@@ -80,11 +80,11 @@
 
 ---
 
-## Current Focus
+## Currently Building
 
-- SaaS workflows and internal tooling for SMEs.
-- Automation + AI integrations for commercial teams.
-- High-conversion landing pages and product-led web experiences.
+- 🏗️ SaaS workflows and internal tooling for SMEs.
+- 🤖 Automation + AI integrations for commercial teams.
+- 🚀 High-conversion landing pages and product-led web experiences.
 
 ---
 
