@@ -1,100 +1,90 @@
-<!-- GitHub Profile README for @Brahiamm56 -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:4F46E5&height=180&section=header&text=Brahiam%20Iserre&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" alt="Brahiam Iserre" />
+  <h1>Software Engineer · Full-Stack Developer · UX/UI Designer</h1>
+  <p>Building real products where product thinking, visual quality and reliable engineering meet.</p>
+  <p>
+    <a href="https://www.iserre.site"><img src="https://img.shields.io/badge/Portfolio-iserre.site-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/brahiam-iserre-7ba07537a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:brahiamiserre10@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
+</div>
 
-<h1 align="center">Brahiam Iserre</h1>
+## Profile
 
-<p align="center">
-  <strong>Full Stack Developer | UI/UX | Business Automation</strong>
-</p>
+I’m a Software Engineer and Full-Stack Developer focused on UX/UI and product thinking. I design and ship SaaS platforms, e-commerce systems, dashboards and business automation for real-world operations.
 
-<p align="center">
-  Building SaaS products, management systems, and high-impact web interfaces.
-</p>
+My work goes from functional problem discovery to production: architecture, responsive interfaces, databases, authentication, payments, AI integrations and deployment. I care about products that are clear, fast and genuinely useful.
 
-<p align="center">
-  <a href="https://www.iserre.online">Portfolio</a>
-  |
-  <a href="https://www.linkedin.com/in/brahiam-iserre-7ba07537a/">LinkedIn</a>
-  |
-  <a href="mailto:brahiamiserre10@gmail.com">Email</a>
-</p>
+**Based in:** Resistencia, Chaco, Argentina · **Open to:** Remote / hybrid opportunities
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Resistencia%2C%20Chaco%2C%20Argentina-0D1117?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Open%20to-Freelance%20%26%20Remote-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Open to work" />
-  <img src="https://img.shields.io/badge/Languages-Spanish%20%7C%20English-0D1117?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Languages" />
-</p>
+## What I build
 
----
+<table>
+  <tr>
+    <td width="50%"><strong>Product systems</strong><br />SaaS, dashboards, inventory, CRM and payments</td>
+    <td width="50%"><strong>Experience systems</strong><br />UX/UI, responsive interfaces, motion and visual identity</td>
+  </tr>
+  <tr>
+    <td><strong>Automation</strong><br />AI agents, WhatsApp workflows and operational tooling</td>
+    <td><strong>Product storytelling</strong><br />Landing pages and conversion-focused digital experiences</td>
+  </tr>
+</table>
 
-## About Me
+## Featured products
 
-- Full stack developer focused on shipping products that solve real business problems.
-- Strong visual criteria in UI/UX and experience creating social media visual identity.
-- Building custom automation workflows with AI for commercial operations.
-- Main stack: Next.js, React, TypeScript, Node.js, Supabase.
+| Product | What I solved | Stack |
+| --- | --- | --- |
+| [Dispo](https://dispo.ar) | Sports-club SaaS with live reservations, tournaments, sales, stock and AI-assisted WhatsApp workflows. | Next.js · React · TypeScript · Supabase · PostgreSQL · OpenAI API |
+| [Vexo](https://vexo.ar) | Commercial operating system connecting inventory, sales, CRM, payments, shipping and configurable storefronts. | Next.js · React · TypeScript · NeonDB · Mercado Pago |
+| [Portfolio](https://www.iserre.site) | Editorial portfolio with lightweight mode, bilingual navigation and an optional 3D experience. | Next.js · React · TypeScript · GSAP · Spline |
+| [JuanchiCar](https://github.com/Brahiamm56/Gestor-de-Inventario-y-Ventas---JuanchiCar) | Inventory and sales management system designed for day-to-day commercial operations. | Java · MySQL · MVC |
 
----
+## Selected impact
 
-## Tech Stack
+```mermaid
+xychart-beta
+    title "Reported impact · selected projects"
+    x-axis ["Dispo queries", "Axis retention", "Axis speed/SEO", "Vida UI bugs", "Vida deploys"]
+    y-axis "Percent" 0 --> 80
+    bar [80, 40, 35, 20, 15]
+```
+
+*Percentages are reported outcomes from selected products and work experiences.*
+
+## Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
-  <img src="https://img.shields.io/badge/Photoshop-001E36?style=flat-square&logo=adobephotoshop&logoColor=31A8FF" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=111827" alt="Supabase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=111827" alt="GSAP" />
+  <img src="https://img.shields.io/badge/Spline_3D-111827?style=flat-square&logoColor=white" alt="Spline 3D" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/Meta_WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=111827" alt="Meta WhatsApp API" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
----
+## GitHub activity
 
-## Featured Projects
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Brahiamm56&show_icons=true&hide_border=true&title_color=4F46E5&icon_color=4F46E5&text_color=374151&bg_color=00000000" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Brahiamm56&hide_border=true&ring=4F46E5&fire=F59E0B&currStreakLabel=4F46E5&background=00000000" alt="GitHub streak" />
+</div>
 
-| Project | Description | Stack |
-|---|---|---|
-| [Portfolio](https://www.iserre.online) | Personal site with strong visual direction and interactive frontend. | Next.js, React, TypeScript, Framer Motion |
-| [NorthPadel Front](https://github.com/Brahiamm56/NorthPadel-Front) | Frontend for padel club workflows and user experience. | TypeScript, Frontend Architecture |
-| [NorthPadel Back](https://github.com/Brahiamm56/NorthPadel-Back) | Backend services and business logic for sports platform operations. | Node.js, APIs |
-| [Proyecto Ventas Java](https://github.com/Brahiamm56/Proyecto-Ventas-Java) | Sales management project focused on practical business flows. | Java, MySQL |
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brahiamm56&bg_color=ffffff00&color=4F46E5&line=4F46E5&point=F59E0B&area=true&hide_border=true" width="100%" alt="GitHub activity graph" />
+</div>
 
----
+## Currently building
 
-## GitHub Stats
+- 🏗️ SaaS workflows and internal tools for SMEs
+- 🤖 AI + WhatsApp automation for commercial teams
+- 🚀 Product-led web experiences with strong visual direction
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Brahiamm56&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=Brahiamm56&theme=transparent&hide_border=true" alt="GitHub streak" />
-</p>
+## Let’s connect
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brahiamm56&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brahiamm56&theme=github-compact&hide_border=true" alt="Activity graph" />
-</p>
-
----
-
-## Currently Building
-
-- 🏗️ SaaS workflows and internal tooling for SMEs.
-- 🤖 Automation + AI integrations for commercial teams.
-- 🚀 High-conversion landing pages and product-led web experiences.
-
----
-
-## Contact
-
-- Email: brahiamiserre10@gmail.com
-- LinkedIn: https://www.linkedin.com/in/brahiam-iserre-7ba07537a/
-- GitHub: https://github.com/Brahiamm56
-- Website: https://www.iserre.online
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Brahiamm56&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+[Portfolio](https://www.iserre.site) · [LinkedIn](https://www.linkedin.com/in/brahiam-iserre-7ba07537a/) · [GitHub](https://github.com/Brahiamm56) · [Email](mailto:brahiamiserre10@gmail.com)
