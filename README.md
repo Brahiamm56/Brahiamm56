@@ -15,15 +15,13 @@
 
 I'm a developer and designer from Argentina. I enjoy turning real problems into clear interfaces, useful products and reliable code.
 
-I work across product design, frontend, backend, databases, automation and AI.
-
 ## Selected work
 
-- [Dispo](https://dispo.ar) — SaaS for sports clubs, reservations and daily operations.
-- [Vexo](https://vexo.ar) — Commercial platform for inventory, sales, CRM and payments.
-- [Portfolio](https://www.iserre.site) — My personal space for design, experiments and case studies.
+- [Correntinos Web](https://github.com/Brahiamm56/Correntinos-Web) — responsive website for a climate-focused organization.
+- [Tienda Catálogo WhatsApp](https://github.com/Brahiamm56/E-commerce-AlgoDiferente) — e-commerce starter with direct WhatsApp checkout.
+- [Portfolio](https://www.iserre.site) — my personal space for design, experiments and case studies.
 
-## Tools I use
+## Tools
 
 TypeScript · React · Next.js · Supabase · PostgreSQL · GSAP · OpenAI API
 
